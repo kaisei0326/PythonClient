@@ -1,0 +1,12 @@
+/.pep8
+/.pylintrc
+/MANIFEST.in
+/carla
+/client_example.py
+/driving_benchmark_example.py
+/manual_control.py
+/point_cloud_example.py
+/requirements.txt
+/setup.py
+/test
+/view_start_positions.py
